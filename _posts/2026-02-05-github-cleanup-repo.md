@@ -1,7 +1,7 @@
 ---
 title: "Github repo cleanup"
 excerpt: "Cleaning github repos using github's API."
-date: 2026-02-05 21:56:00 -0300
+date: 2026-02-01 21:56:00 -0300
 image: "/assets/images/drawings/the-software-smith/the-software-smith.jpeg"
 tags: 
   - github

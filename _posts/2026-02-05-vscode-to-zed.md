@@ -1,7 +1,7 @@
 ---
 title: "Ditching VS Code for Zed Completely"
 excerpt: "The time to completely replace VS Code with Zed has finally arrived."
-date: 2026-02-05 21:56:00 -0300
+date: 2026-02-05 17:08:00 -0300
 image: "/assets/images/drawings/the-software-smith/the-software-smith.jpeg"
 tags: 
   - editor
